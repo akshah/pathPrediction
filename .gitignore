@@ -90,3 +90,6 @@ ENV/
 
 #data
 dataFiles/
+
+#IDE
+.idea/
